@@ -1,7 +1,7 @@
-# Motion Detection and Face Recognition Alarm System
+# Motion Detection and Intrusion Alert System
 
 ## 📌 Overview
-This project is a **Motion Detection and Face Recognition Alarm System** that:
+This project is a **Motion Detection and Intrusion Alert System** that:
 - Detects motion using a webcam.
 - Recognizes known faces and triggers an alarm for unknown faces.
 - Sends an email alert with captured frames if an unknown person is detected.
