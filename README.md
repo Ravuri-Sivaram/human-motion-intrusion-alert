@@ -98,3 +98,8 @@ Replace `alert.mp3` with your custom alert sound.
   - Improve accuracy by adding more training images per person.
 
 ---
+
+## Acknowledgments
+This project uses:
+- [YOLOv8](https://github.com/ultralytics/yolov8) for motion detection.
+- Some parts of the alert system were adapted from [OpenCV Motion Detection](https://github.com/opencv/opencv).
