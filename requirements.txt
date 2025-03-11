@@ -1,0 +1,3 @@
+pip install opencv-python face-recognition numpy playsound imutils smtplib
+pip install dlib
+pip install simpleaudio
